@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Barboud</h1>
-<h3 align="center">A passionate developer from Yemen</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibra-br" alt="ibra-br" /></a> </p>
+<h1 align="left">Hi 👋, I'm Ibrahim Barboud</h1>
+<h3 align="left">A passionate developer from Yemen</h3>
 
 - ⚡ Always learning **new things.**
 
+- 🌱 I’m currently working as **back-end developer**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ibra-br?tab=repositories](https://github.com/ibra-br?tab=repositories)
+
 - 💬 Ask me about **PHP, Laravel, MySQL.**
 
-- 📫 How to reach me **ibrahim.barboud@gmail.com**
+- 📫 Feel free to reach me out **ibrahim.barboud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
