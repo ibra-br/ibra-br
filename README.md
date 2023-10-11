@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ibrahim Barboud</h1>
-<h3 align="left">A passionate developer from Yemen</h3>
+<h3 align="left">A Passionate Developer</h3>
 
 - ⚡ Always learning **new things.**
 
